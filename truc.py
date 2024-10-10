@@ -22,4 +22,3 @@ except:
     print("Entrez un nombre valide !")
 finally:
     print("A plus tard !")
-
